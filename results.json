@@ -1,0 +1,847 @@
+{
+ "site_conv": 0.012783668067278037,
+ "funnel": [
+  {
+   "channel": "Social",
+   "view_rate": 0.02129,
+   "cart_given_view": 0.36713,
+   "checkout_given_cart": 0.2309,
+   "buy_given_checkout": 0.2549,
+   "conv": 0.00046
+  },
+  {
+   "channel": "Organic Search",
+   "view_rate": 0.16422,
+   "cart_given_view": 0.35709,
+   "checkout_given_cart": 0.36639,
+   "buy_given_checkout": 0.41998,
+   "conv": 0.00902
+  },
+  {
+   "channel": "Direct",
+   "view_rate": 0.1476,
+   "cart_given_view": 0.43757,
+   "checkout_given_cart": 0.46985,
+   "buy_given_checkout": 0.47488,
+   "conv": 0.01441
+  }
+ ],
+ "social_landing": [
+  {
+   "landing_section": "/home",
+   "sessions": 204947,
+   "bounces": 134198,
+   "converting_sessions": 28,
+   "share": 0.90638,
+   "bounce": 0.65479,
+   "conv": 0.00014
+  },
+  {
+   "landing_section": "/google+redesign",
+   "sessions": 20286,
+   "bounces": 12822,
+   "converting_sessions": 65,
+   "share": 0.08971,
+   "bounce": 0.63206,
+   "conv": 0.0032
+  },
+  {
+   "landing_section": "/basket.html",
+   "sessions": 285,
+   "bounces": 149,
+   "converting_sessions": 5,
+   "share": 0.00126,
+   "bounce": 0.52281,
+   "conv": 0.01754
+  },
+  {
+   "landing_section": "/signin.html",
+   "sessions": 196,
+   "bounces": 115,
+   "converting_sessions": 2,
+   "share": 0.00087,
+   "bounce": 0.58673,
+   "conv": 0.0102
+  },
+  {
+   "landing_section": "/store.html",
+   "sessions": 167,
+   "bounces": 99,
+   "converting_sessions": 4,
+   "share": 0.00074,
+   "bounce": 0.59281,
+   "conv": 0.02395
+  },
+  {
+   "landing_section": "/store-policies",
+   "sessions": 107,
+   "bounces": 50,
+   "converting_sessions": 0,
+   "share": 0.00047,
+   "bounce": 0.46729,
+   "conv": 0.0
+  },
+  {
+   "landing_section": "/asearch.html",
+   "sessions": 104,
+   "bounces": 67,
+   "converting_sessions": 0,
+   "share": 0.00046,
+   "bounce": 0.64423,
+   "conv": 0.0
+  },
+  {
+   "landing_section": "(none)",
+   "sessions": 15,
+   "bounces": 0,
+   "converting_sessions": 0,
+   "share": 7e-05,
+   "bounce": 0.0,
+   "conv": 0.0
+  }
+ ],
+ "youtube_vs_rest": {
+  "rest_sessions": 13515,
+  "rest_conv": 0.006881243063263041
+ },
+ "social_source_groups": [
+  {
+   "group": "YouTube",
+   "sessions": 212602,
+   "bounces": 140287,
+   "converting_sessions": 11,
+   "share_sessions": 0.94023,
+   "share_purchases": 0.10577,
+   "conv": 5e-05,
+   "bounce": 0.65986,
+   "conv_non_bounced": 0.00015
+  },
+  {
+   "group": "Facebook (3 domains)",
+   "sessions": 6456,
+   "bounces": 3752,
+   "converting_sessions": 39,
+   "share_sessions": 0.02855,
+   "share_purchases": 0.375,
+   "conv": 0.00604,
+   "bounce": 0.58116,
+   "conv_non_bounced": 0.01442
+  },
+  {
+   "group": "Reddit",
+   "sessions": 2022,
+   "bounces": 830,
+   "converting_sessions": 1,
+   "share_sessions": 0.00894,
+   "share_purchases": 0.00962,
+   "conv": 0.00049,
+   "bounce": 0.41048,
+   "conv_non_bounced": 0.00084
+  },
+  {
+   "group": "Quora",
+   "sessions": 1546,
+   "bounces": 667,
+   "converting_sessions": 1,
+   "share_sessions": 0.00684,
+   "share_purchases": 0.00962,
+   "conv": 0.00065,
+   "bounce": 0.43144,
+   "conv_non_bounced": 0.00114
+  },
+  {
+   "group": "Twitter (t.co)",
+   "sessions": 1529,
+   "bounces": 1076,
+   "converting_sessions": 7,
+   "share_sessions": 0.00676,
+   "share_purchases": 0.06731,
+   "conv": 0.00458,
+   "bounce": 0.70373,
+   "conv_non_bounced": 0.01545
+  },
+  {
+   "group": "Google Groups",
+   "sessions": 1025,
+   "bounces": 431,
+   "converting_sessions": 38,
+   "share_sessions": 0.00453,
+   "share_purchases": 0.36538,
+   "conv": 0.03707,
+   "bounce": 0.42049,
+   "conv_non_bounced": 0.06397
+  },
+  {
+   "group": "All other sources",
+   "sessions": 937,
+   "bounces": 466,
+   "converting_sessions": 7,
+   "share_sessions": 0.00414,
+   "share_purchases": 0.06731,
+   "conv": 0.00747,
+   "bounce": 0.49733,
+   "conv_non_bounced": 0.01486
+  }
+ ],
+ "landing_by_source": [
+  {
+   "group": "Non-YouTube",
+   "landing_section": "/home",
+   "sessions": 6117,
+   "converting_sessions": 21,
+   "conv": 0.003433
+  },
+  {
+   "group": "YouTube",
+   "landing_section": "/home",
+   "sessions": 198830,
+   "converting_sessions": 7,
+   "conv": 3.5e-05
+  },
+  {
+   "group": "Non-YouTube",
+   "landing_section": "/google+redesign",
+   "sessions": 7086,
+   "converting_sessions": 64,
+   "conv": 0.009032
+  },
+  {
+   "group": "YouTube",
+   "landing_section": "/google+redesign",
+   "sessions": 13200,
+   "converting_sessions": 1,
+   "conv": 7.6e-05
+  }
+ ],
+ "landing_pooled": [
+  {
+   "landing_section": "/home",
+   "sessions": 204947,
+   "converting_sessions": 28,
+   "youtube_share": 0.970153,
+   "conv": 0.000137
+  },
+  {
+   "landing_section": "/google+redesign",
+   "sessions": 20286,
+   "converting_sessions": 65,
+   "youtube_share": 0.650695,
+   "conv": 0.003204
+  }
+ ],
+ "landing_inference": {
+  "YouTube": {
+   "events": 8,
+   "ratio": 2.151839826839827,
+   "ci": [
+    0.04774539480191992,
+    16.74955297967439
+   ],
+   "p_exact": 0.4020335836723569
+  },
+  "Non-YouTube": {
+   "events": 85,
+   "ratio": 2.6308616588040805,
+   "ci": [
+    1.5854873309323858,
+    4.535508754517487
+   ],
+   "p_exact": 4.739349664244024e-05
+  },
+  "All social": {
+   "events": 93,
+   "ratio": 23.453111575893296,
+   "ci": [
+    14.843938751284734,
+    37.94672611609242
+   ],
+   "p_exact": 3.804691920246272e-46
+  }
+ },
+ "social_monthly": [
+  {
+   "month": "2016-08",
+   "sessions": 25372,
+   "converting_sessions": 8
+  },
+  {
+   "month": "2016-09",
+   "sessions": 24727,
+   "converting_sessions": 7
+  },
+  {
+   "month": "2016-10",
+   "sessions": 42094,
+   "converting_sessions": 3
+  },
+  {
+   "month": "2016-11",
+   "sessions": 57218,
+   "converting_sessions": 4
+  },
+  {
+   "month": "2016-12",
+   "sessions": 16570,
+   "converting_sessions": 9
+  },
+  {
+   "month": "2017-01",
+   "sessions": 10454,
+   "converting_sessions": 6
+  },
+  {
+   "month": "2017-02",
+   "sessions": 10753,
+   "converting_sessions": 12
+  },
+  {
+   "month": "2017-03",
+   "sessions": 12952,
+   "converting_sessions": 4
+  },
+  {
+   "month": "2017-04",
+   "sessions": 11475,
+   "converting_sessions": 11
+  },
+  {
+   "month": "2017-05",
+   "sessions": 3686,
+   "converting_sessions": 33
+  },
+  {
+   "month": "2017-06",
+   "sessions": 2854,
+   "converting_sessions": 5
+  },
+  {
+   "month": "2017-07",
+   "sessions": 7749,
+   "converting_sessions": 2
+  },
+  {
+   "month": "2017-08",
+   "sessions": 213,
+   "converting_sessions": 0
+  }
+ ],
+ "social_periods": [
+  {
+   "period": "May 1-4, 2017",
+   "days": 4,
+   "sessions": 2061,
+   "sessions_per_day": 515.25,
+   "converting_sessions": 18,
+   "conv": 0.008733624454148471
+  }
+ ],
+ "social_per_day_year": 618.9150684931507,
+ "social_per_day_recent": 173.81967213114754,
+ "sizes": {
+  "metric": "social purchase conversion",
+  "baseline": 0.0004599388811986715,
+  "rel_lift": 0.5,
+  "n_per_arm": 170552,
+  "days_at_recent": 1962.401584457229
+ },
+ "scorecard": {
+  "rows": [
+   {
+    "group": "YouTube",
+    "sessions": 212602.0,
+    "purchasing_sessions": 11.0,
+    "transactions": 11.0,
+    "revenue": 355.07,
+    "share_sessions": 0.94023,
+    "share_purchases": 0.105769,
+    "share_revenue": 0.042286,
+    "conversion": 5.2e-05,
+    "revenue_per_purchasing_session": 32.279091,
+    "revenue_per_visit": 0.00167
+   },
+   {
+    "group": "Facebook (3 domains)",
+    "sessions": 6456.0,
+    "purchasing_sessions": 39.0,
+    "transactions": 66.0,
+    "revenue": 5564.43,
+    "share_sessions": 0.028552,
+    "share_purchases": 0.375,
+    "share_revenue": 0.662686,
+    "conversion": 0.006041,
+    "revenue_per_purchasing_session": 142.677692,
+    "revenue_per_visit": 0.861901
+   },
+   {
+    "group": "Reddit",
+    "sessions": 2022.0,
+    "purchasing_sessions": 1.0,
+    "transactions": 1.0,
+    "revenue": 16.97,
+    "share_sessions": 0.008942,
+    "share_purchases": 0.009615,
+    "share_revenue": 0.002021,
+    "conversion": 0.000495,
+    "revenue_per_purchasing_session": 16.97,
+    "revenue_per_visit": 0.008393
+   },
+   {
+    "group": "Quora",
+    "sessions": 1546.0,
+    "purchasing_sessions": 1.0,
+    "transactions": 1.0,
+    "revenue": 31.98,
+    "share_sessions": 0.006837,
+    "share_purchases": 0.009615,
+    "share_revenue": 0.003809,
+    "conversion": 0.000647,
+    "revenue_per_purchasing_session": 31.98,
+    "revenue_per_visit": 0.020686
+   },
+   {
+    "group": "Twitter (t.co)",
+    "sessions": 1529.0,
+    "purchasing_sessions": 7.0,
+    "transactions": 7.0,
+    "revenue": 313.68,
+    "share_sessions": 0.006762,
+    "share_purchases": 0.067308,
+    "share_revenue": 0.037357,
+    "conversion": 0.004578,
+    "revenue_per_purchasing_session": 44.811429,
+    "revenue_per_visit": 0.205154
+   },
+   {
+    "group": "Google Groups",
+    "sessions": 1025.0,
+    "purchasing_sessions": 38.0,
+    "transactions": 38.0,
+    "revenue": 1775.26,
+    "share_sessions": 0.004533,
+    "share_purchases": 0.365385,
+    "share_revenue": 0.211422,
+    "conversion": 0.037073,
+    "revenue_per_purchasing_session": 46.717368,
+    "revenue_per_visit": 1.731961
+   },
+   {
+    "group": "All other sources",
+    "sessions": 937.0,
+    "purchasing_sessions": 7.0,
+    "transactions": 7.0,
+    "revenue": 339.39,
+    "share_sessions": 0.004144,
+    "share_purchases": 0.067308,
+    "share_revenue": 0.040419,
+    "conversion": 0.007471,
+    "revenue_per_purchasing_session": 48.484286,
+    "revenue_per_visit": 0.362209
+   },
+   {
+    "group": "All social",
+    "sessions": 226117.0,
+    "purchasing_sessions": 104.0,
+    "transactions": 131.0,
+    "revenue": 8396.78,
+    "share_sessions": 1.0,
+    "share_purchases": 1.0,
+    "share_revenue": 1.0,
+    "conversion": 0.00046,
+    "revenue_per_purchasing_session": 80.738269,
+    "revenue_per_visit": 0.037135
+   }
+  ]
+ },
+ "channel_revenue": [
+  {
+   "channel": "Organic Search",
+   "sessions": 381561,
+   "purchasing_sessions": 3443,
+   "transactions": 3581,
+   "revenue": 377075.81,
+   "share_sessions": 0.422243,
+   "share_revenue": 0.211823,
+   "conversion": 0.009023,
+   "revenue_per_visit": 0.988245
+  },
+  {
+   "channel": "Social",
+   "sessions": 226117,
+   "purchasing_sessions": 104,
+   "transactions": 131,
+   "revenue": 8396.78,
+   "share_sessions": 0.250225,
+   "share_revenue": 0.004717,
+   "conversion": 0.00046,
+   "revenue_per_visit": 0.037135
+  },
+  {
+   "channel": "Direct",
+   "sessions": 143026,
+   "purchasing_sessions": 2061,
+   "transactions": 2219,
+   "revenue": 498530.03,
+   "share_sessions": 0.158275,
+   "share_revenue": 0.28005,
+   "conversion": 0.01441,
+   "revenue_per_visit": 3.48559
+  },
+  {
+   "channel": "Referral (Google internal sites)",
+   "sessions": 68933,
+   "purchasing_sessions": 5136,
+   "transactions": 5348,
+   "revenue": 678847.74,
+   "share_sessions": 0.076283,
+   "share_revenue": 0.381343,
+   "conversion": 0.074507,
+   "revenue_per_visit": 9.847936
+  },
+  {
+   "channel": "Referral (other sites)",
+   "sessions": 35905,
+   "purchasing_sessions": 186,
+   "transactions": 195,
+   "revenue": 38752.51,
+   "share_sessions": 0.039733,
+   "share_revenue": 0.021769,
+   "conversion": 0.00518,
+   "revenue_per_visit": 1.079307
+  },
+  {
+   "channel": "Paid Search",
+   "sessions": 25326,
+   "purchasing_sessions": 469,
+   "transactions": 479,
+   "revenue": 47543.43,
+   "share_sessions": 0.028026,
+   "share_revenue": 0.026708,
+   "conversion": 0.018519,
+   "revenue_per_visit": 1.877258
+  },
+  {
+   "channel": "Affiliates",
+   "sessions": 16403,
+   "purchasing_sessions": 9,
+   "transactions": 9,
+   "revenue": 654.38,
+   "share_sessions": 0.018152,
+   "share_revenue": 0.000368,
+   "conversion": 0.000549,
+   "revenue_per_visit": 0.039894
+  },
+  {
+   "channel": "Display",
+   "sessions": 6262,
+   "purchasing_sessions": 143,
+   "transactions": 152,
+   "revenue": 130336.56,
+   "share_sessions": 0.00693,
+   "share_revenue": 0.073217,
+   "conversion": 0.022836,
+   "revenue_per_visit": 20.813887
+  },
+  {
+   "channel": "(Other)",
+   "sessions": 120,
+   "purchasing_sessions": 1,
+   "transactions": 1,
+   "revenue": 11.99,
+   "share_sessions": 0.000133,
+   "share_revenue": 7e-06,
+   "conversion": 0.008333,
+   "revenue_per_visit": 0.099917
+  }
+ ],
+ "store_external": {
+  "sessions": 834720,
+  "purchasing_sessions": 6416,
+  "revenue": 1101301.4900000002,
+  "conversion": 0.007686409814069388,
+  "revenue_per_visit": 1.3193663623730116
+ },
+ "social_funnel_by_audience": [
+  {
+   "audience": "YouTube",
+   "sessions": 212602,
+   "viewed_product": 3446,
+   "added_to_cart": 991,
+   "reached_checkout": 136,
+   "purchasing_sessions": 11,
+   "revenue": 355.07,
+   "view_rate": 0.016209,
+   "buy_given_view": 0.003192,
+   "revenue_per_purchase": 32.279091
+  },
+  {
+   "audience": "Facebook and Google Groups",
+   "sessions": 7481,
+   "viewed_product": 942,
+   "added_to_cart": 613,
+   "reached_checkout": 220,
+   "purchasing_sessions": 77,
+   "revenue": 7339.69,
+   "view_rate": 0.125919,
+   "buy_given_view": 0.081741,
+   "revenue_per_purchase": 95.320649
+  },
+  {
+   "audience": "Other social",
+   "sessions": 6034,
+   "viewed_product": 425,
+   "added_to_cart": 163,
+   "reached_checkout": 52,
+   "purchasing_sessions": 16,
+   "revenue": 702.02,
+   "view_rate": 0.070434,
+   "buy_given_view": 0.037647,
+   "revenue_per_purchase": 43.87625
+  }
+ ],
+ "sizing_by_audience": [
+  {
+   "audience": "YouTube",
+   "scenario": "1.5x view rate",
+   "view_rate": 0.02431303562525282,
+   "extra_purchases": 5.499999999999998,
+   "extra_revenue": 177.53499999999994
+  },
+  {
+   "audience": "YouTube",
+   "scenario": "search's view rate",
+   "view_rate": 0.16421751698941978,
+   "extra_purchases": 100.44593674313143,
+   "extra_revenue": 3242.3035235803345
+  },
+  {
+   "audience": "Facebook and Google Groups",
+   "scenario": "search's view rate",
+   "view_rate": 0.16421751698941978,
+   "extra_purchases": 23.41970895332738,
+   "extra_revenue": 2232.3818650343824
+  }
+ ],
+ "test_sizes": {
+  "buying_purchase": [
+   {
+    "baseline": 0.010292741612083945,
+    "rel_lift": 0.5,
+    "n_per_group": 7527,
+    "weeks": 104.92120839459966
+   },
+   {
+    "baseline": 0.010292741612083945,
+    "rel_lift": 1.0,
+    "n_per_group": 2252,
+    "weeks": 31.391332709530815
+   }
+  ],
+  "buying_view": [
+   {
+    "baseline": 0.12591899478679322,
+    "rel_lift": 0.5,
+    "n_per_group": 525,
+    "weeks": 7.318139286191686
+   }
+  ]
+ },
+ "social_first_view_later": {
+  "Other social": {
+   "viewed": {
+    "visitors": 903,
+    "return_rate": 0.17054263565891473,
+    "later_buy_rate": 0.005537098560354375,
+    "later_revenue": 1314.48
+   },
+   "not_viewed": {
+    "visitors": 9211,
+    "return_rate": 0.11464553251547063,
+    "later_buy_rate": 0.0022798827488872,
+    "later_revenue": 2272.41
+   },
+   "return_ratio": {
+    "ratio": 1.487564599483204,
+    "ci": [
+     1.2744379030851118,
+     1.7363328823466757
+    ],
+    "p_two": 4.809654297055488e-07
+   },
+   "later_buy_ratio": {
+    "events": 26,
+    "ratio": 2.4286768971154356,
+    "ci": [
+     0.7155207786228612,
+     6.61824778328875
+    ],
+    "p_exact": 0.07680026229036384
+   }
+  },
+  "YouTube": {
+   "viewed": {
+    "visitors": 3037,
+    "return_rate": 0.11952584787619361,
+    "later_buy_rate": 0.0006585446163977609,
+    "later_revenue": 40.96
+   },
+   "not_viewed": {
+    "visitors": 196752,
+    "return_rate": 0.03576075465560706,
+    "later_buy_rate": 2.541270228511019e-05,
+    "later_revenue": 141.43
+   },
+   "return_ratio": {
+    "ratio": 3.3423748751189373,
+    "ci": [
+     3.026668077262921,
+     3.691012532807669
+    ],
+    "p_two": 0.0
+   },
+   "later_buy_ratio": {
+    "events": 7,
+    "ratio": 25.91399407309845,
+    "ci": [
+     2.467672596066727,
+     158.2877801449468
+    ],
+    "p_exact": 0.004612163849820129
+   }
+  },
+  "totals": {
+   "visitors": 209903,
+   "returned": 8609,
+   "bought_later_not_first": 32,
+   "later_revenue": 3769.2799999999997
+  }
+ },
+ "stage2_youtube": {
+  "view_baseline": 0.016209,
+  "view_n_per_group_50pct": 4744,
+  "view_weeks_at_recent_social": 7.7979008636369755,
+  "return_base": 0.037118503051619546,
+  "return_sensitivity": [
+   {
+    "view_rate": 0.024313500000000002,
+    "return_base": 0.037118503051619546,
+    "return_new": 0.03779737724962579,
+    "rel_lift": 0.0182893743603334,
+    "n_per_group": 1228068,
+    "weeks_at_recent": 2018.6240551865376
+   },
+   {
+    "view_rate": 0.05,
+    "return_base": 0.037118503051619546,
+    "return_new": 0.039949009316636384,
+    "rel_lift": 0.0762559379369514,
+    "n_per_group": 72591,
+    "weeks_at_recent": 119.32070438285659
+   },
+   {
+    "view_rate": 0.1,
+    "return_base": 0.037118503051619546,
+    "return_new": 0.044137263977665715,
+    "rel_lift": 0.18909062459456938,
+    "n_per_group": 12420,
+    "weeks_at_recent": 20.415246358847224
+   },
+   {
+    "view_rate": 0.164,
+    "return_base": 0.037118503051619546,
+    "return_new": 0.04949822994378325,
+    "rel_lift": 0.33351902351632035,
+    "n_per_group": 4243,
+    "weeks_at_recent": 6.974387302784926
+   }
+  ],
+  "return_test_sizes": [
+   {
+    "base": 0.037118503051619546,
+    "rel_lift": 0.3,
+    "n_per_group": 5172,
+    "weeks_at_recent": 8.50142143059242
+   },
+   {
+    "base": 0.037118503051619546,
+    "rel_lift": 0.2,
+    "n_per_group": 11154,
+    "weeks_at_recent": 18.334271971544442
+   },
+   {
+    "base": 0.037118503051619546,
+    "rel_lift": 0.15,
+    "n_per_group": 19399,
+    "weeks_at_recent": 31.886905323291252
+   },
+   {
+    "base": 0.025,
+    "rel_lift": 0.2,
+    "n_per_group": 16792,
+    "weeks_at_recent": 27.601676075504237,
+    "note": "if the 90-day return rate is 2.5%"
+   }
+  ]
+ },
+ "time_to_later_purchase": {
+  "buyers": 32,
+  "median_days": 4.65,
+  "max_days": 114.3,
+  "bins": [
+   {
+    "bin": "under 1 day",
+    "buyers": 11,
+    "cumulative": 0.34375
+   },
+   {
+    "bin": "1-7 days",
+    "buyers": 6,
+    "cumulative": 0.53125
+   },
+   {
+    "bin": "8-30 days",
+    "buyers": 8,
+    "cumulative": 0.78125
+   },
+   {
+    "bin": "31-90 days",
+    "buyers": 6,
+    "cumulative": 0.96875
+   },
+   {
+    "bin": "over 90 days",
+    "buyers": 1,
+    "cumulative": 1.0
+   }
+  ]
+ },
+ "later_purchase_attribution": {
+  "buyers": 33,
+  "revenue": 3769.2799999999997,
+  "credited_to_social": {
+   "buyers": 21,
+   "revenue": 3362.46
+  },
+  "credited_elsewhere": {
+   "buyers": 12,
+   "revenue": 406.82000000000005
+  },
+  "arrived_through_social_link": 1
+ },
+ "derived": {
+  "social_conv_gap_vs_external": 16.709586552324758,
+  "social_conv_gap_vs_store": 27.790582754952254,
+  "view_step_share_of_gap_vs_search": 0.6864356951288707,
+  "youtube_vs_facebook_non_bounced_conv": 96.13333333333334,
+  "social_non_bounced_conv": 0.0013230205577040505,
+  "monthly_peak": 57218,
+  "june_2017": 2854,
+  "fall_from_peak_to_june": 0.9501205914222797,
+  "may_2017_share_of_purchases": 0.3173076923076923,
+  "recent_share_of_year_traffic": 0.2808457589412709,
+  "best_case_extra_revenue": 5474.685388614716,
+  "best_case_share_of_revenue": 0.0030754081154278938,
+  "best_case_share_of_external": 0.004971105041013534,
+  "best_case_at_recent_traffic": 1537.5421729301866,
+  "first_time_social_return_rate": 0.04101418274155205
+ }
+}

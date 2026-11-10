@@ -1,0 +1,982 @@
+wk,country,metro,orders,revenue,buyers
+28,United States,Austin TX,4,313.77,3
+28,United States,Seattle-Tacoma WA,4,190.95,4
+30,United States,New York NY,45,4507.4,10
+40,United States,not available in demo dataset,69,10434.8,66
+2,United States,(not set),2,377.58,2
+2,United States,not available in demo dataset,54,5969.93,54
+41,United States,New York NY,11,1942.31,11
+26,United States,not available in demo dataset,64,7712.7,62
+29,Canada,(not set),3,89.96,2
+18,United States,Chicago IL,4,1491.44,4
+29,United States,San Francisco-Oakland-San Jose CA,10,1595.88,9
+44,United States,not available in demo dataset,49,4547.93,44
+24,Kuwait,not available in demo dataset,1,118.94,1
+41,United States,not available in demo dataset,98,9789.22,92
+28,United States,not available in demo dataset,62,25297.82,61
+29,United States,Seattle-Tacoma WA,1,59.77,1
+29,United States,Indianapolis IN,1,7.99,1
+16,United States,not available in demo dataset,52,8321.11,50
+38,United States,San Francisco-Oakland-San Jose CA,42,3253.5,40
+34,United States,San Francisco-Oakland-San Jose CA,17,2363.56,17
+3,United States,Chicago IL,8,1317.91,6
+48,United States,Denver CO,4,166.92,4
+44,United States,Los Angeles CA,4,488.06,4
+36,Colombia,not available in demo dataset,1,40.98,1
+9,Netherlands,not available in demo dataset,1,31.93,1
+1,United States,San Francisco-Oakland-San Jose CA,25,2784.96,25
+0,United States,not available in demo dataset,40,6712.04,40
+47,United States,not available in demo dataset,54,8876.75,53
+3,United States,(not set),11,1352.63,3
+33,United States,Dallas-Ft. Worth TX,1,26.99,1
+47,United States,San Diego CA,1,18.29,1
+40,United States,Washington DC (Hagerstown MD),1,211.68,1
+10,United States,not available in demo dataset,55,9961.68,52
+8,United States,Los Angeles CA,4,1607.25,4
+37,United States,Houston TX,2,135.79,2
+30,Canada,not available in demo dataset,3,434.89,3
+19,United States,not available in demo dataset,150,12613.92,144
+32,United States,San Francisco-Oakland-San Jose CA,18,2278.11,18
+22,United States,Los Angeles CA,3,186.86,3
+34,Canada,not available in demo dataset,4,247.91,4
+26,United States,San Francisco-Oakland-San Jose CA,14,1656.93,13
+2,United States,Chicago IL,7,774.41,6
+23,United States,New York NY,8,699.59,7
+26,Canada,(not set),2,3013.64,1
+12,United States,San Francisco-Oakland-San Jose CA,16,2639.03,13
+34,Mexico,(not set),1,183.65,1
+9,United States,Atlanta GA,1,57.46,1
+19,United States,Houston TX,3,58.95,3
+37,United States,Seattle-Tacoma WA,3,134.97,3
+37,United States,Phoenix AZ,1,43.47,1
+39,Mexico,not available in demo dataset,1,148.98,1
+8,Japan,(not set),1,3394.8,1
+9,United States,San Francisco-Oakland-San Jose CA,22,3025.77,22
+41,United States,Houston TX,2,40.97,2
+14,Argentina,not available in demo dataset,2,151.86,2
+6,United States,Portland OR,2,637.19,2
+50,United States,San Francisco-Oakland-San Jose CA,37,3508.36,35
+3,United States,Los Angeles CA,6,1357.45,6
+19,United States,New York NY,9,712.09,8
+18,Mexico,(not set),1,59.97,1
+2,Venezuela,(not set),23,3432.93,10
+31,United States,San Francisco-Oakland-San Jose CA,10,1987.01,9
+7,United States,New York NY,11,1813.27,11
+44,Israel,(not set),1,51.07,1
+21,Brazil,not available in demo dataset,1,30.99,1
+21,Canada,not available in demo dataset,3,522.87,3
+35,Japan,(not set),1,41.98,1
+23,United States,Seattle-Tacoma WA,2,2358.5,2
+43,United States,Los Angeles CA,4,97.34,4
+11,United States,Boston MA-Manchester NH,2,324.69,2
+11,United States,San Diego CA,1,456.91,1
+49,United States,Boston MA-Manchester NH,5,471.97,5
+37,United States,Cincinnati OH,1,93.98,1
+42,United States,Dallas-Ft. Worth TX,1,25.99,1
+31,China,not available in demo dataset,1,45.97,1
+22,Japan,not available in demo dataset,1,30.99,1
+2,United States,San Francisco-Oakland-San Jose CA,25,2151.3,23
+41,United States,Washington DC (Hagerstown MD),2,43.98,2
+16,United States,San Diego CA,2,119.35,2
+25,United States,San Francisco-Oakland-San Jose CA,13,2335.81,13
+8,United States,Orlando-Daytona Beach-Melbourne FL,1,107.95,1
+22,Mexico,not available in demo dataset,1,14.5,1
+40,United States,San Francisco-Oakland-San Jose CA,31,3553.02,28
+8,United States,Austin TX,3,143.45,3
+39,United States,Phoenix AZ,1,17.99,1
+51,Canada,not available in demo dataset,1,89.47,1
+9,United States,New York NY,12,2482.49,12
+43,United States,San Francisco-Oakland-San Jose CA,18,1816.5,18
+3,United States,San Francisco-Oakland-San Jose CA,22,4096.62,19
+20,United States,Detroit MI,1,55.97,1
+25,United States,Dallas-Ft. Worth TX,1,15.99,1
+35,United States,San Francisco-Oakland-San Jose CA,16,2392.99,10
+2,United States,New York NY,14,2692.47,14
+17,United States,New York NY,18,2651.61,17
+19,United States,San Francisco-Oakland-San Jose CA,38,5107.4,36
+46,United States,Washington DC (Hagerstown MD),1,75.27,1
+49,United States,Houston TX,2,142.38,2
+51,Mexico,not available in demo dataset,1,10.99,1
+0,United States,Los Angeles CA,3,499.2,3
+18,Russia,not available in demo dataset,1,21.99,1
+41,United States,Chicago IL,6,1342.6,6
+21,United States,Seattle-Tacoma WA,3,174.5,3
+42,United States,New York NY,8,770.46,8
+8,United States,New York NY,9,637.55,9
+14,United States,Chicago IL,5,1667.23,5
+32,Venezuela,not available in demo dataset,8,1321.62,2
+27,United States,San Francisco-Oakland-San Jose CA,12,1420.84,12
+30,United States,Atlanta GA,2,119.43,2
+13,United States,Philadelphia PA,1,58.9,1
+2,United States,Roanoke-Lynchburg VA,7,,2
+4,United States,Seattle-Tacoma WA,1,18.49,1
+4,United States,Chicago IL,1,312.01,1
+23,United States,Roanoke-Lynchburg VA,6,341.85,4
+24,United States,Chicago IL,2,1000.13,2
+11,United States,Los Angeles CA,4,1014.6,4
+40,United States,Los Angeles CA,4,277.07,3
+51,United States,New York NY,1,203.22,1
+51,Poland,Seattle-Tacoma WA,1,40.79,1
+17,United States,El Paso TX,1,33.99,1
+2,(not set),(not set),2,319.51,1
+5,United States,New York NY,11,3523.28,11
+16,United States,Dallas-Ft. Worth TX,2,118.47,2
+6,Canada,(not set),1,30.18,1
+21,Panama,not available in demo dataset,1,11.5,1
+7,United States,Miami-Ft. Lauderdale FL,1,83.93,1
+37,United States,Chicago IL,5,1772.91,3
+13,United States,Dallas-Ft. Worth TX,1,45.98,1
+21,Canada,(not set),2,131.84,2
+32,Turkey,(not set),1,25.46,1
+8,Canada,(not set),1,1002.59,1
+36,United States,Columbus OH,1,27.99,1
+8,United States,Seattle-Tacoma WA,2,291.89,2
+30,United States,San Francisco-Oakland-San Jose CA,12,745.84,11
+17,Canada,New York NY,1,499.05,1
+20,Canada,not available in demo dataset,1,40.98,1
+16,United States,San Francisco-Oakland-San Jose CA,12,586.09,12
+24,United States,Sacramento-Stockton-Modesto CA,1,183.9,1
+20,United States,New York NY,12,763.71,12
+26,United States,Los Angeles CA,4,297.8,4
+16,Mexico,(not set),1,121.97,1
+36,United States,New York NY,7,506.01,7
+35,United States,New York NY,11,1899.29,9
+15,United States,Seattle-Tacoma WA,3,143.96,3
+15,Indonesia,(not set),1,102.94,1
+20,Puerto Rico,not available in demo dataset,1,8.99,1
+6,United States,San Francisco-Oakland-San Jose CA,20,4196.09,19
+0,United States,Atlanta GA,1,8.5,1
+10,United States,Detroit MI,2,64.95,2
+1,United States,Dallas-Ft. Worth TX,2,637.15,2
+20,Japan,not available in demo dataset,1,28.99,1
+11,United States,Washington DC (Hagerstown MD),1,240.5,1
+3,United States,Portland OR,2,262.21,2
+48,United States,Houston TX,2,34.98,2
+28,United States,Houston TX,2,133.46,2
+11,United States,New York NY,7,979.33,6
+22,United States,Seattle-Tacoma WA,4,827.69,4
+27,Switzerland,San Francisco-Oakland-San Jose CA,1,21.99,1
+37,United States,Atlanta GA,2,105.37,2
+25,United States,Phoenix AZ,1,471.87,1
+29,United States,New York NY,7,1876.54,6
+44,Spain,New York NY,1,25.99,1
+33,Ukraine,not available in demo dataset,1,30.98,1
+38,United States,Seattle-Tacoma WA,5,268.51,5
+39,United States,Nashville TN,1,36.59,1
+34,Israel,(not set),1,31.76,1
+15,Mexico,not available in demo dataset,1,53.97,1
+6,United States,Boston MA-Manchester NH,1,92.97,1
+43,United States,New York NY,6,893.68,6
+19,United States,Seattle-Tacoma WA,3,77.89,3
+0,Peru,(not set),1,42.0,1
+19,United States,Austin TX,4,293.15,4
+50,Canada,not available in demo dataset,3,274.2,3
+33,United States,Denver CO,1,801.56,1
+11,United States,Atlanta GA,1,30.55,1
+8,United States,Roanoke-Lynchburg VA,2,188.98,1
+31,United States,Chicago IL,4,805.94,4
+25,United States,New York NY,9,1157.66,9
+23,Hong Kong,not available in demo dataset,1,51.97,1
+37,United States,New York NY,6,639.96,5
+44,United States,Roanoke-Lynchburg VA,1,6.99,1
+35,United States,Atlanta GA,1,46.97,1
+46,United States,Detroit MI,2,38.68,2
+6,United States,Houston TX,1,35.91,1
+14,United States,Los Angeles CA,3,207.32,3
+13,United States,Los Angeles CA,6,1054.04,6
+13,Netherlands,not available in demo dataset,1,220.93,1
+33,United States,San Francisco-Oakland-San Jose CA,17,6158.59,17
+43,Taiwan,not available in demo dataset,1,53.57,1
+18,United States,Dallas-Ft. Worth TX,1,45.99,1
+17,United States,not available in demo dataset,109,18619.68,107
+4,United States,Austin TX,3,238.4,2
+25,United States,(not set),1,414.49,1
+27,United States,Atlanta GA,2,1087.12,2
+44,Malaysia,(not set),1,106.92,1
+31,Japan,not available in demo dataset,3,1323.82,3
+1,United States,Los Angeles CA,2,74.51,2
+12,United States,Chicago IL,12,1239.21,6
+7,United Kingdom,not available in demo dataset,1,47.98,1
+43,Argentina,not available in demo dataset,1,65.06,1
+51,United States,Boston MA-Manchester NH,3,219.54,3
+12,United States,Philadelphia PA,2,518.97,2
+15,United States,Chicago IL,4,1349.15,4
+7,United States,Atlanta GA,3,222.39,3
+5,United States,San Antonio TX,2,5.09,1
+4,United States,San Francisco-Oakland-San Jose CA,19,2213.41,19
+37,United States,Boston MA-Manchester NH,2,210.08,2
+10,United States,Houston TX,2,730.89,2
+50,United States,Minneapolis-St. Paul MN,2,134.69,2
+40,Canada,not available in demo dataset,3,192.66,3
+2,Canada,(not set),1,103.63,1
+11,United States,Austin TX,1,47.27,1
+45,United States,Los Angeles CA,2,64.61,2
+44,United States,San Francisco-Oakland-San Jose CA,22,1422.7,19
+39,United States,New York NY,37,2482.69,36
+3,United States,Seattle-Tacoma WA,2,8.49,2
+19,United Kingdom,not available in demo dataset,2,78.89,2
+15,Canada,not available in demo dataset,8,960.54,8
+46,United States,Austin TX,1,90.5,1
+30,United States,Washington DC (Hagerstown MD),1,8.99,1
+36,Canada,not available in demo dataset,1,26.95,1
+31,United States,San Diego CA,1,61.99,1
+27,Singapore,(not set),1,142.65,1
+6,Thailand,(not set),1,118.96,1
+13,United States,Chicago IL,5,884.36,5
+18,United States,Roanoke-Lynchburg VA,1,10.99,1
+37,Canada,not available in demo dataset,1,176.25,1
+27,Russia,not available in demo dataset,1,29.98,1
+22,Canada,not available in demo dataset,1,25.96,1
+39,United States,Denver CO,4,234.94,4
+44,Canada,(not set),3,475.13,3
+11,United States,Houston TX,2,171.88,2
+35,Brazil,not available in demo dataset,1,21.99,1
+7,United States,Chicago IL,7,573.02,7
+15,United States,Boston MA-Manchester NH,2,1342.1,2
+41,United States,Seattle-Tacoma WA,2,112.34,2
+30,Kazakhstan,not available in demo dataset,1,18.99,1
+42,United States,Chicago IL,4,884.19,4
+23,United States,Houston TX,1,35.98,1
+14,United States,Seattle-Tacoma WA,1,103.99,1
+47,United States,Washington DC (Hagerstown MD),1,116.93,1
+39,United States,Washington DC (Hagerstown MD),2,190.68,2
+40,United States,Chicago IL,5,865.01,5
+22,United States,San Francisco-Oakland-San Jose CA,11,866.79,9
+45,United States,San Diego CA,1,70.97,1
+1,United States,Detroit MI,2,240.52,2
+3,(not set),New York NY,1,136.73,1
+51,United States,Los Angeles CA,2,70.77,2
+31,United States,Miami-Ft. Lauderdale FL,1,40.68,1
+21,Philippines,not available in demo dataset,1,50.88,1
+13,United States,Austin TX,2,97.72,2
+36,United States,Orlando-Daytona Beach-Melbourne FL,1,21.98,1
+14,Australia,(not set),1,24.98,1
+46,United States,Atlanta GA,1,57.07,1
+3,United States,Austin TX,3,269.83,3
+18,United States,Washington DC (Hagerstown MD),5,654.14,4
+13,United States,New York NY,6,1347.39,6
+16,United States,Chicago IL,5,443.63,5
+18,United States,Austin TX,3,198.21,3
+16,Indonesia,(not set),1,288.95,1
+25,United States,Houston TX,1,91.2,1
+49,United States,Phoenix AZ,2,101.26,2
+15,United States,San Francisco-Oakland-San Jose CA,21,1855.71,20
+9,Australia,(not set),1,36.93,1
+19,Canada,not available in demo dataset,4,226.91,4
+21,United States,Austin TX,1,25.98,1
+47,United States,Austin TX,2,92.95,2
+44,United States,Detroit MI,1,42.96,1
+27,United States,Phoenix AZ,1,25.99,1
+29,United Arab Emirates,not available in demo dataset,1,104.98,1
+43,United States,(not set),1,92.69,1
+26,United States,Detroit MI,1,94.99,1
+43,United States,Seattle-Tacoma WA,2,38.76,2
+41,United States,Detroit MI,2,909.58,2
+12,Colombia,not available in demo dataset,1,44.9,1
+37,Puerto Rico,not available in demo dataset,1,103.39,1
+15,Puerto Rico,not available in demo dataset,1,520.0,1
+0,United States,Chicago IL,3,523.21,3
+19,United States,Roanoke-Lynchburg VA,1,6.5,1
+3,Indonesia,(not set),3,755.76,3
+3,Venezuela,Los Angeles CA,1,26.68,1
+5,United States,(not set),1,65.91,1
+3,St. Lucia,not available in demo dataset,1,17.95,1
+34,United States,Detroit MI,1,59.89,1
+30,Canada,(not set),1,47.96,1
+26,United States,Seattle-Tacoma WA,3,619.53,2
+26,United States,Austin TX,7,1872.47,3
+45,United States,Chicago IL,4,1004.61,4
+22,United States,Detroit MI,1,25.98,1
+33,United States,Roanoke-Lynchburg VA,3,220.95,2
+51,United States,Milwaukee WI,1,400.89,1
+9,United States,Seattle-Tacoma WA,3,418.46,3
+3,United States,Washington DC (Hagerstown MD),5,939.7,4
+13,United States,Boston MA-Manchester NH,2,61.97,2
+44,Canada,not available in demo dataset,1,84.9,1
+7,Saudi Arabia,not available in demo dataset,1,67.97,1
+2,United States,Los Angeles CA,3,144.88,3
+9,United Kingdom,London,1,36.99,1
+23,United States,San Francisco-Oakland-San Jose CA,10,882.97,9
+26,Taiwan,not available in demo dataset,1,198.42,1
+16,United States,Los Angeles CA,2,89.56,2
+29,United States,Roanoke-Lynchburg VA,1,506.75,1
+34,United States,Roanoke-Lynchburg VA,6,388.42,1
+38,United States,Washington DC (Hagerstown MD),1,174.95,1
+6,United States,Austin TX,3,755.58,3
+9,Canada,not available in demo dataset,2,73.87,2
+8,Puerto Rico,not available in demo dataset,2,250.18,2
+15,Singapore,(not set),1,146.95,1
+50,United States,Seattle-Tacoma WA,2,66.58,2
+7,United States,Nashville TN,1,31.48,1
+7,United States,Los Angeles CA,1,106.99,1
+17,Malaysia,(not set),1,339.93,1
+47,United States,Seattle-Tacoma WA,2,107.98,2
+20,United States,Los Angeles CA,4,1358.02,4
+45,Singapore,(not set),1,24.99,1
+43,United States,San Diego CA,2,173.95,2
+16,United States,Denver CO,1,68.98,1
+30,United States,Los Angeles CA,4,667.02,4
+39,United States,Los Angeles CA,8,488.51,8
+51,United States,Chicago IL,2,170.82,2
+34,United States,Minneapolis-St. Paul MN,1,29.98,1
+11,United States,Nashville TN,1,42.99,1
+5,Thailand,(not set),1,141.59,1
+31,United States,Los Angeles CA,4,257.72,4
+33,United States,Pittsburgh PA,1,26.99,1
+8,United States,Atlanta GA,9,1950.27,4
+7,Singapore,(not set),1,60.95,1
+21,United States,Washington DC (Hagerstown MD),1,24.99,1
+32,Canada,(not set),1,857.1,1
+30,United States,Boston MA-Manchester NH,1,425.73,1
+36,Indonesia,not available in demo dataset,1,154.03,1
+31,United States,Atlanta GA,2,136.56,2
+21,United States,San Francisco-Oakland-San Jose CA,7,481.71,6
+35,Belgium,not available in demo dataset,2,279.25,1
+25,United States,Seattle-Tacoma WA,1,81.98,1
+12,Georgia,(not set),1,25.99,1
+44,United States,Austin TX,3,214.5,3
+39,United States,Chicago IL,2,133.18,2
+10,United States,Seattle-Tacoma WA,6,1753.02,6
+49,France,(not set),1,132.7,1
+1,United States,Boston MA-Manchester NH,1,159.04,1
+20,Romania,(not set),1,81.96,1
+5,United States,Columbus OH,1,65.46,1
+47,Taiwan,(not set),1,111.93,1
+8,United States,not available in demo dataset,58,4271.97,57
+8,Canada,not available in demo dataset,2,2468.86,2
+44,United States,Chicago IL,3,585.01,3
+20,United States,Houston TX,2,706.73,2
+21,Kazakhstan,not available in demo dataset,1,25.99,1
+11,United States,Chicago IL,5,2857.15,4
+34,United States,Los Angeles CA,5,1129.1,4
+12,United States,Houston TX,1,82.0,1
+40,United States,Houston TX,2,74.83,2
+42,Japan,(not set),1,29.1,1
+32,Saudi Arabia,not available in demo dataset,1,120.96,1
+29,United States,Chicago IL,7,3292.96,5
+26,United States,Houston TX,3,145.97,3
+27,Peru,(not set),1,97.58,1
+18,Canada,(not set),2,278.5,2
+28,Venezuela,not available in demo dataset,7,951.7,1
+16,Chile,(not set),1,97.95,1
+9,United States,not available in demo dataset,73,6774.21,65
+44,India,(not set),1,30.43,1
+15,United States,Austin TX,1,48.77,1
+50,United States,Boston MA-Manchester NH,2,1048.52,2
+0,Venezuela,not available in demo dataset,1,209.96,1
+36,United States,Austin TX,1,17.68,1
+9,Mexico,not available in demo dataset,1,38.92,1
+14,United States,(not set),1,52.39,1
+13,United States,Orlando-Daytona Beach-Melbourne FL,1,34.98,1
+8,United States,Kansas City MO,1,161.98,1
+22,United States,not available in demo dataset,51,12187.17,50
+24,Ireland,(not set),1,20.98,1
+28,United States,Detroit MI,2,143.36,2
+18,South Korea,(not set),1,43.99,1
+46,United States,Los Angeles CA,3,313.39,3
+32,United States,Seattle-Tacoma WA,2,107.93,2
+6,United States,Los Angeles CA,2,115.49,2
+7,United States,Austin TX,3,904.8,3
+40,United States,Austin TX,3,94.98,2
+42,Thailand,not available in demo dataset,1,50.93,1
+36,United Arab Emirates,not available in demo dataset,1,19.99,1
+42,United States,Seattle-Tacoma WA,1,37.77,1
+18,United States,not available in demo dataset,113,13006.68,111
+26,United States,San Diego CA,1,29.99,1
+30,United States,San Diego CA,1,63.99,1
+13,United States,Seattle-Tacoma WA,2,102.93,2
+43,United States,Baltimore MD,1,32.98,1
+4,United States,Los Angeles CA,2,333.46,2
+27,United States,Nashville TN,1,18.99,1
+25,United States,Boston MA-Manchester NH,2,25.48,2
+20,United States,Austin TX,3,138.51,3
+34,United States,Austin TX,1,26.19,1
+15,United States,New York NY,8,2432.2,7
+17,United States,Seattle-Tacoma WA,4,138.39,3
+3,United States,New York NY,19,3490.26,16
+45,France,(not set),1,255.27,1
+21,Ecuador,not available in demo dataset,1,114.9,1
+0,United States,Pittsburgh PA,1,23.99,1
+48,United States,Washington DC (Hagerstown MD),2,70.06,2
+44,Taiwan,(not set),1,53.97,1
+34,United States,Seattle-Tacoma WA,1,155.25,1
+9,United States,Chicago IL,2,35.97,2
+14,United States,San Diego CA,1,206.9,1
+22,Australia,(not set),1,49.97,1
+35,South Korea,not available in demo dataset,1,41.98,1
+37,United States,Austin TX,4,421.9,4
+29,United States,Washington DC (Hagerstown MD),1,166.68,1
+39,Greece,(not set),1,105.77,1
+40,United States,Fresno-Visalia CA,1,55.0,1
+41,United Kingdom,London,1,68.97,1
+30,United States,Chicago IL,3,1955.95,3
+24,United States,Seattle-Tacoma WA,1,22.96,1
+11,United States,not available in demo dataset,84,14603.72,70
+27,Canada,not available in demo dataset,2,513.56,2
+32,Indonesia,not available in demo dataset,8,901.71,1
+29,Brazil,(not set),2,349.87,2
+22,United States,Boston MA-Manchester NH,2,65.35,2
+36,United States,Los Angeles CA,3,166.72,3
+49,Canada,(not set),2,57.98,2
+33,United States,Chicago IL,2,330.08,2
+7,Portugal,not available in demo dataset,1,222.8,1
+42,United States,Houston TX,1,77.27,1
+3,China,not available in demo dataset,1,36.46,1
+31,Venezuela,(not set),4,480.85,1
+24,United States,New York NY,12,662.62,11
+22,United States,New York NY,5,333.38,5
+20,United States,not available in demo dataset,61,7094.11,61
+16,United States,Seattle-Tacoma WA,1,665.6,1
+39,United States,Austin TX,8,393.64,8
+10,United States,Syracuse NY,1,22.95,1
+31,Venezuela,not available in demo dataset,1,54.95,1
+0,Canada,(not set),1,65.69,1
+6,United States,San Diego CA,2,139.84,2
+47,United States,San Antonio TX,2,109.83,2
+48,United States,Chicago IL,1,84.99,1
+21,United States,Chicago IL,1,1483.63,1
+37,United States,Philadelphia PA,1,160.41,1
+27,United States,Houston TX,1,64.97,1
+1,United States,Chicago IL,2,603.04,2
+19,United States,San Diego CA,2,70.98,2
+15,Hong Kong,(not set),1,107.98,1
+6,Hong Kong,not available in demo dataset,1,179.9,1
+46,United Kingdom,London,1,235.07,1
+47,United States,Kansas City MO,1,24.38,1
+35,United States,Denver CO,1,67.96,1
+31,United States,Boston MA-Manchester NH,1,608.87,1
+31,Indonesia,(not set),1,279.84,1
+24,United States,San Francisco-Oakland-San Jose CA,16,2516.72,15
+10,United States,Phoenix AZ,4,528.25,4
+3,Venezuela,not available in demo dataset,28,18989.02,7
+9,Chile,not available in demo dataset,1,24.8,1
+7,United States,Roanoke-Lynchburg VA,1,64.99,1
+20,United States,San Antonio TX,2,31.92,2
+11,United States,Detroit MI,1,107.96,1
+5,Canada,not available in demo dataset,1,38.48,1
+51,United States,Denver CO,1,101.48,1
+37,United States,Denver CO,1,104.99,1
+28,United States,Boston MA-Manchester NH,2,74.57,2
+39,Canada,not available in demo dataset,1,15.98,1
+36,United States,not available in demo dataset,53,5134.76,53
+49,United States,Washington DC (Hagerstown MD),2,69.84,2
+12,Kenya,not available in demo dataset,1,1685.7,1
+28,United States,Atlanta GA,3,519.86,1
+30,United States,Seattle-Tacoma WA,4,850.93,4
+4,Chile,(not set),1,113.79,1
+18,United States,Boston MA-Manchester NH,2,76.94,2
+28,United States,Washington DC (Hagerstown MD),1,25.99,1
+36,United States,San Francisco-Oakland-San Jose CA,23,2727.89,23
+36,Canada,(not set),2,177.18,2
+12,Taiwan,(not set),1,39.98,1
+8,United States,Dallas-Ft. Worth TX,1,19.99,1
+3,United States,Minneapolis-St. Paul MN,1,14.47,1
+39,United States,San Antonio TX,1,20.99,1
+33,Canada,(not set),1,82.16,1
+33,United States,Seattle-Tacoma WA,3,124.13,3
+31,United States,Seattle-Tacoma WA,1,80.38,1
+43,United States,Austin TX,1,493.2,1
+26,United States,New York NY,5,1290.19,5
+22,United States,Atlanta GA,1,98.98,1
+5,United States,San Francisco-Oakland-San Jose CA,16,2794.66,15
+20,France,San Francisco-Oakland-San Jose CA,1,33.99,1
+46,United States,Boston MA-Manchester NH,1,16.29,1
+41,United States,Los Angeles CA,6,539.51,6
+29,United States,Atlanta GA,1,36.98,1
+51,Philippines,not available in demo dataset,1,83.16,1
+50,United States,Portland OR,3,110.26,3
+31,United States,New York NY,8,881.49,8
+19,Canada,(not set),8,930.99,4
+18,United States,Minneapolis-St. Paul MN,1,25.99,1
+35,United States,Los Angeles CA,4,182.76,3
+38,United States,Charlotte NC,1,685.58,1
+24,United States,Los Angeles CA,2,139.45,2
+4,Chile,not available in demo dataset,1,14.73,1
+12,United States,Los Angeles CA,4,1159.83,4
+1,Venezuela,not available in demo dataset,10,1670.1,4
+8,United States,Chicago IL,1,19.99,1
+17,United States,Houston TX,1,88.8,1
+34,United States,San Diego CA,1,152.89,1
+20,United States,Raleigh-Durham (Fayetteville) NC,1,19.96,1
+5,United States,not available in demo dataset,72,5612.89,68
+40,United States,New York NY,22,1232.45,22
+2,United States,Houston TX,1,143.01,1
+27,United States,Boston MA-Manchester NH,1,58.97,1
+40,United States,Boston MA-Manchester NH,1,21.59,1
+24,United States,Austin TX,1,171.84,1
+39,United States,San Francisco-Oakland-San Jose CA,61,4135.78,58
+34,Canada,(not set),2,107.36,2
+45,Mexico,not available in demo dataset,1,77.9,1
+38,Puerto Rico,not available in demo dataset,1,19.99,1
+12,United States,Seattle-Tacoma WA,1,512.01,1
+6,Hong Kong,(not set),1,304.43,1
+30,India,(not set),1,4.5,1
+17,United States,Omaha NE,1,61.17,1
+35,Georgia,not available in demo dataset,1,23.99,1
+35,United States,not available in demo dataset,69,63965.57,66
+1,United States,not available in demo dataset,66,4469.64,66
+28,Mexico,not available in demo dataset,1,64.98,1
+9,United States,Austin TX,1,86.77,1
+10,Canada,(not set),2,91.58,1
+10,United States,Miami-Ft. Lauderdale FL,1,90.97,1
+33,South Korea,not available in demo dataset,1,20.99,1
+23,Singapore,(not set),1,56.99,1
+51,China,not available in demo dataset,1,32.49,1
+32,United States,Chicago IL,7,913.74,5
+48,Canada,not available in demo dataset,2,70.42,2
+38,United States,Detroit MI,1,431.61,1
+7,United States,Seattle-Tacoma WA,5,313.24,4
+44,United States,San Diego CA,1,19.95,1
+21,Guadeloupe,not available in demo dataset,1,29.18,1
+27,United States,not available in demo dataset,44,7832.09,43
+11,United States,San Francisco-Oakland-San Jose CA,15,5334.58,13
+5,United States,Austin TX,4,300.92,4
+46,United States,not available in demo dataset,54,16005.36,53
+45,United States,Charlotte NC,1,32.95,1
+4,United States,New York NY,14,2257.96,12
+1,Australia,(not set),1,175.7,1
+34,China,San Francisco-Oakland-San Jose CA,1,54.97,1
+5,United States,Seattle-Tacoma WA,3,834.42,3
+9,United States,Charlotte NC,2,111.98,2
+49,United States,Detroit MI,1,22.99,1
+23,United States,Chicago IL,2,357.29,2
+16,Japan,not available in demo dataset,1,25.99,1
+40,Saudi Arabia,not available in demo dataset,1,87.15,1
+18,Colombia,not available in demo dataset,2,131.18,2
+47,Ukraine,not available in demo dataset,1,10.5,1
+18,United States,San Francisco-Oakland-San Jose CA,40,5004.44,36
+18,Australia,(not set),1,42.95,1
+46,United States,San Diego CA,1,13.48,1
+30,United States,not available in demo dataset,69,7697.98,66
+33,United States,(not set),1,69.57,1
+48,United States,Dallas-Ft. Worth TX,1,36.95,1
+35,Ukraine,not available in demo dataset,1,447.54,1
+39,Canada,(not set),2,258.72,1
+49,Malaysia,(not set),1,34.0,1
+19,Finland,not available in demo dataset,1,57.99,1
+9,United States,Washington DC (Hagerstown MD),1,98.8,1
+47,United States,Chicago IL,1,90.56,1
+12,Brazil,(not set),1,38.98,1
+17,United States,Kansas City MO,2,75.94,2
+25,United States,Chicago IL,6,811.14,6
+4,United States,Atlanta GA,2,604.72,2
+37,United States,not available in demo dataset,77,42275.46,73
+45,United States,not available in demo dataset,61,13814.29,60
+34,United States,not available in demo dataset,65,10641.44,63
+32,United States,not available in demo dataset,58,7363.68,57
+38,United States,Los Angeles CA,6,656.81,6
+38,United States,New York NY,16,1181.2,16
+48,United States,New York NY,8,642.81,8
+25,United States,not available in demo dataset,50,3720.52,50
+39,United States,not available in demo dataset,79,9247.79,77
+6,United States,Roanoke-Lynchburg VA,4,16047.0,3
+10,United States,Austin TX,2,119.55,2
+50,United States,not available in demo dataset,63,31230.65,55
+0,United States,Austin TX,2,257.99,2
+14,United States,not available in demo dataset,59,8305.99,50
+14,United States,New York NY,11,2957.82,11
+13,United States,not available in demo dataset,69,9202.87,68
+50,United States,New York NY,11,1750.27,10
+33,United States,New York NY,10,2051.49,10
+2,United States,Pittsburgh PA,2,216.67,2
+49,United States,Denver CO,1,36.0,1
+14,Netherlands,(not set),1,26.19,1
+24,United States,not available in demo dataset,42,8487.32,41
+29,United States,not available in demo dataset,54,9575.51,50
+21,United States,not available in demo dataset,32,3412.83,31
+45,United States,New York NY,19,2803.02,18
+13,United States,San Francisco-Oakland-San Jose CA,25,5556.84,18
+51,United States,San Francisco-Oakland-San Jose CA,35,2001.77,31
+40,Germany,not available in demo dataset,1,28.95,1
+34,United States,New York NY,13,5886.96,13
+51,United States,not available in demo dataset,66,7907.02,62
+49,United States,not available in demo dataset,62,18313.47,60
+6,United States,not available in demo dataset,51,9552.39,47
+12,United States,New York NY,12,2620.68,12
+11,(not set),(not set),1,24.98,1
+1,United States,New York NY,20,7716.08,17
+15,United States,not available in demo dataset,60,7060.35,59
+7,United States,Washington DC (Hagerstown MD),2,424.84,2
+7,United States,San Francisco-Oakland-San Jose CA,14,1167.08,13
+19,United States,Chicago IL,9,1277.62,9
+41,United States,San Francisco-Oakland-San Jose CA,29,2010.41,29
+2,Curaçao,(not set),1,208.33,1
+19,United States,Los Angeles CA,7,2762.28,6
+4,United States,not available in demo dataset,56,4151.99,51
+29,United States,Los Angeles CA,2,63.95,2
+40,United States,Seattle-Tacoma WA,6,402.43,6
+11,United States,Seattle-Tacoma WA,2,112.36,2
+49,United States,Austin TX,7,965.53,7
+26,Brazil,(not set),2,137.48,2
+3,Venezuela,(not set),31,5221.6,12
+50,Canada,(not set),1,95.74,1
+30,Venezuela,not available in demo dataset,35,3233.77,3
+42,United States,San Francisco-Oakland-San Jose CA,17,1865.8,16
+30,United States,Austin TX,1,4.99,1
+46,United States,San Francisco-Oakland-San Jose CA,15,757.62,15
+46,United States,New York NY,4,212.95,4
+36,United States,Seattle-Tacoma WA,4,2129.85,3
+3,(not set),(not set),1,306.27,1
+4,Canada,not available in demo dataset,1,80.48,1
+47,Greece,(not set),1,30.58,1
+30,United States,Phoenix AZ,1,57.99,1
+28,Canada,not available in demo dataset,4,370.89,4
+17,United States,San Francisco-Oakland-San Jose CA,31,3114.09,30
+17,Canada,not available in demo dataset,7,244.84,7
+12,Canada,(not set),2,82.45,2
+45,United States,Philadelphia PA,1,131.93,1
+10,United States,Washington DC (Hagerstown MD),3,414.24,3
+49,United States,New York NY,12,2780.27,12
+0,United States,San Francisco-Oakland-San Jose CA,21,2020.47,21
+14,United States,San Francisco-Oakland-San Jose CA,16,1758.22,16
+3,United States,Fresno-Visalia CA,3,308.44,2
+1,United States,Jacksonville FL,1,31.68,1
+51,United States,Seattle-Tacoma WA,1,40.76,1
+51,United States,Houston TX,6,985.35,6
+35,United States,Chicago IL,7,1052.04,6
+10,United States,New York NY,11,1660.9,10
+51,Canada,(not set),2,148.97,2
+28,Egypt,not available in demo dataset,1,58.96,1
+49,United States,Dallas-Ft. Worth TX,2,51.28,2
+49,United States,Seattle-Tacoma WA,1,26.79,1
+10,United States,Columbus OH,2,62.97,2
+31,United States,Austin TX,1,92.96,1
+15,Armenia,not available in demo dataset,1,34.48,1
+14,United States,Atlanta GA,2,46.47,2
+48,Canada,(not set),1,53.98,1
+37,United States,Los Angeles CA,4,86.56,4
+33,United States,Austin TX,4,804.38,3
+46,Sweden,not available in demo dataset,1,21.99,1
+28,United States,Los Angeles CA,9,1939.99,8
+29,United States,Dallas-Ft. Worth TX,1,21.99,1
+27,United States,Los Angeles CA,8,1387.68,8
+17,United States,Chicago IL,5,1505.92,5
+45,United States,Houston TX,2,100.09,2
+43,Canada,(not set),2,30.49,2
+17,Mexico,(not set),1,35.98,1
+51,United States,Austin TX,1,126.4,1
+29,Taiwan,not available in demo dataset,2,205.0,1
+21,United States,Orlando-Daytona Beach-Melbourne FL,1,21.99,1
+39,United States,Seattle-Tacoma WA,6,1151.59,6
+43,United States,Chicago IL,4,1074.9,4
+6,United States,Seattle-Tacoma WA,2,105.94,2
+15,Cyprus,not available in demo dataset,1,76.44,1
+50,United States,Dallas-Ft. Worth TX,1,34.27,1
+5,South Korea,(not set),1,75.97,1
+30,United States,Omaha NE,5,212.78,1
+18,United States,Atlanta GA,1,90.98,1
+11,United States,Miami-Ft. Lauderdale FL,1,30.48,1
+45,United States,Seattle-Tacoma WA,4,583.31,4
+25,United States,Austin TX,3,550.47,3
+48,United States,San Francisco-Oakland-San Jose CA,19,6628.07,15
+29,Chile,not available in demo dataset,1,22.99,1
+34,United States,Chicago IL,3,652.47,3
+33,United States,Detroit MI,1,34.99,1
+10,Taiwan,(not set),1,38.99,1
+16,United States,New York NY,3,1675.05,3
+48,United States,Austin TX,2,355.62,2
+30,Germany,not available in demo dataset,1,24.99,1
+2,United States,San Diego CA,1,62.52,1
+43,United States,Phoenix AZ,1,31.14,1
+42,Colombia,(not set),1,37.99,1
+50,United States,San Diego CA,2,51.94,2
+50,United States,Austin TX,6,364.52,5
+45,Panama,not available in demo dataset,1,110.23,1
+8,United States,San Francisco-Oakland-San Jose CA,9,1220.0,7
+32,United States,New York NY,9,1731.97,9
+27,Hong Kong,(not set),1,62.97,1
+24,United States,(not set),2,247.47,2
+21,United States,New York NY,3,67.96,3
+39,United States,San Diego CA,1,38.59,1
+38,Switzerland,New York NY,1,58.0,1
+32,United States,Los Angeles CA,6,1552.74,6
+40,Mexico,not available in demo dataset,1,152.5,1
+30,United States,Detroit MI,1,38.39,1
+27,United States,Detroit MI,1,27.19,1
+25,United States,Atlanta GA,1,69.91,1
+25,United States,Philadelphia PA,1,18.99,1
+48,United States,Atlanta GA,1,24.97,1
+49,Canada,not available in demo dataset,3,127.04,3
+48,Israel,not available in demo dataset,1,35.88,1
+11,Canada,(not set),1,85.95,1
+41,United States,Atlanta GA,2,163.73,2
+39,United States,Pittsburgh PA,1,39.59,1
+33,Ecuador,not available in demo dataset,2,217.87,2
+14,United States,Washington DC (Hagerstown MD),2,280.39,2
+23,United States,Los Angeles CA,2,113.74,2
+28,United States,Chicago IL,3,861.51,3
+4,United States,Detroit MI,3,330.54,3
+37,United States,Washington DC (Hagerstown MD),2,150.94,2
+39,Ireland,(not set),2,80.18,2
+10,United States,San Francisco-Oakland-San Jose CA,19,2359.57,18
+34,United States,Philadelphia PA,2,34.98,2
+49,United States,Portland OR,3,150.73,3
+10,Mexico,not available in demo dataset,1,68.92,1
+18,United States,Houston TX,1,93.9,1
+9,United States,Houston TX,1,38.98,1
+42,United States,Washington DC (Hagerstown MD),1,49.97,1
+40,United States,Detroit MI,1,528.74,1
+25,Czechia,(not set),1,50.79,1
+47,United States,Dallas-Ft. Worth TX,1,24.99,1
+17,United States,Dallas-Ft. Worth TX,1,188.95,1
+20,United States,Roanoke-Lynchburg VA,1,11.19,1
+16,Canada,(not set),1,36.43,1
+40,United States,Atlanta GA,2,164.35,2
+29,United States,Austin TX,1,24.19,1
+2,Venezuela,not available in demo dataset,4,489.07,4
+5,United States,Chicago IL,2,732.07,2
+15,United States,Roanoke-Lynchburg VA,4,100.36,2
+11,Philippines,(not set),1,23.99,1
+21,Ecuador,(not set),1,359.16,1
+2,Taiwan,(not set),1,136.58,1
+35,United States,Detroit MI,1,19.99,1
+11,United States,Roanoke-Lynchburg VA,2,128.7,1
+43,France,not available in demo dataset,1,15.98,1
+39,United Kingdom,Chicago IL,4,246.18,1
+15,United States,Houston TX,1,80.7,1
+3,United States,Roanoke-Lynchburg VA,2,,1
+30,Guatemala,not available in demo dataset,1,38.97,1
+1,United States,San Diego CA,1,66.6,1
+44,United States,Dallas-Ft. Worth TX,2,343.17,2
+14,United States,Roanoke-Lynchburg VA,3,96.97,2
+1,United States,Austin TX,1,4.68,1
+0,Mexico,not available in demo dataset,1,19.99,1
+7,United States,"Providence-New Bedford,MA",1,184.21,1
+18,Kenya,not available in demo dataset,1,2007.6,1
+48,United States,Seattle-Tacoma WA,3,177.07,3
+23,United States,Pittsburgh PA,1,127.77,1
+45,United States,Atlanta GA,1,122.96,1
+27,United States,Chicago IL,3,238.38,3
+12,United States,Austin TX,1,27.19,1
+13,United States,Houston TX,2,109.44,2
+9,United States,Detroit MI,1,25.9,1
+3,Japan,not available in demo dataset,2,71.47,2
+4,Australia,(not set),1,49.45,1
+44,Germany,not available in demo dataset,1,69.98,1
+13,Taiwan,(not set),1,26.97,1
+19,United States,Charlotte NC,3,108.94,3
+26,Canada,not available in demo dataset,3,106.42,3
+27,United States,Roanoke-Lynchburg VA,2,861.26,1
+26,United States,(not set),1,69.95,1
+2,United States,Seattle-Tacoma WA,4,140.6,4
+33,Kuwait,not available in demo dataset,1,122.28,1
+40,Argentina,not available in demo dataset,1,47.57,1
+42,Canada,not available in demo dataset,1,61.44,1
+10,United States,Roanoke-Lynchburg VA,3,188.16,2
+51,United States,(not set),5,209.05,4
+33,United States,Boston MA-Manchester NH,1,536.55,1
+38,United States,Chicago IL,3,736.76,3
+19,United States,Denver CO,2,106.51,2
+41,Taiwan,(not set),1,49.57,1
+41,United States,Roanoke-Lynchburg VA,2,149.97,2
+24,Taiwan,not available in demo dataset,1,23.97,1
+41,United States,Austin TX,3,296.84,3
+17,China,not available in demo dataset,1,30.99,1
+28,United States,Roanoke-Lynchburg VA,1,36.99,1
+6,United States,New York NY,8,1785.26,8
+32,United States,Houston TX,2,34.97,2
+51,United States,Atlanta GA,1,555.2,1
+15,United States,(not set),1,21.99,1
+14,Taiwan,(not set),1,30.97,1
+18,United States,Los Angeles CA,3,1376.85,3
+29,Colombia,not available in demo dataset,1,37.41,1
+26,United States,Chicago IL,4,940.79,4
+31,United States,Houston TX,1,74.96,1
+39,Japan,not available in demo dataset,2,2336.65,1
+10,United States,Chicago IL,4,203.96,4
+33,Hong Kong,(not set),1,40.98,1
+7,Canada,not available in demo dataset,1,152.85,1
+33,Russia,not available in demo dataset,1,36.48,1
+32,Canada,not available in demo dataset,1,119.84,1
+18,United States,Charlotte NC,1,105.98,1
+37,United States,San Francisco-Oakland-San Jose CA,20,2851.35,20
+37,United Arab Emirates,(not set),1,258.09,1
+9,Italy,not available in demo dataset,1,101.99,1
+32,United States,Atlanta GA,2,146.69,2
+42,United States,not available in demo dataset,54,5063.17,53
+18,United States,Seattle-Tacoma WA,3,132.34,3
+24,United States,Atlanta GA,2,116.93,2
+25,United States,Roanoke-Lynchburg VA,1,49.79,1
+21,United States,Houston TX,1,102.75,1
+31,Puerto Rico,not available in demo dataset,1,28.99,1
+47,United States,San Francisco-Oakland-San Jose CA,16,5655.48,16
+41,Japan,(not set),1,30.88,1
+38,United States,not available in demo dataset,65,7137.8,65
+41,Canada,not available in demo dataset,3,99.63,3
+6,United States,(not set),1,328.2,1
+46,South Korea,not available in demo dataset,1,144.08,1
+30,Mexico,not available in demo dataset,1,54.42,1
+48,United States,not available in demo dataset,36,3062.76,34
+2,Canada,not available in demo dataset,4,1586.65,4
+35,Russia,not available in demo dataset,1,23.49,1
+35,United States,Minneapolis-St. Paul MN,1,116.98,1
+41,United States,Boston MA-Manchester NH,2,323.43,2
+15,United States,Los Angeles CA,3,1002.05,3
+35,Puerto Rico,not available in demo dataset,1,148.97,1
+7,United States,Dallas-Ft. Worth TX,1,23.99,1
+20,Uruguay,not available in demo dataset,1,9.5,1
+0,United States,Seattle-Tacoma WA,1,51.99,1
+41,Brazil,(not set),1,58.98,1
+42,United States,Austin TX,2,87.28,2
+9,United States,Philadelphia PA,1,281.25,1
+2,United States,Austin TX,4,175.35,4
+27,United States,Kansas City MO,1,18.19,1
+25,Canada,not available in demo dataset,2,80.96,2
+12,El Salvador,not available in demo dataset,1,80.89,1
+15,United States,Las Vegas NV,1,75.99,1
+49,United States,Chicago IL,1,46.37,1
+43,United States,not available in demo dataset,53,8956.9,50
+29,Canada,not available in demo dataset,1,15.97,1
+1,Canada,not available in demo dataset,2,1433.67,2
+48,United States,Los Angeles CA,1,47.96,1
+31,United States,Washington DC (Hagerstown MD),1,93.94,1
+36,United States,Chicago IL,4,437.41,3
+41,United States,San Diego CA,1,46.98,1
+40,Switzerland,(not set),1,16.99,1
+31,United States,Pittsburgh PA,1,14.98,1
+5,South Africa,not available in demo dataset,1,61.11,1
+50,United States,Chicago IL,7,524.97,7
+49,Israel,(not set),1,19.99,1
+40,Japan,not available in demo dataset,1,56.97,1
+15,China,not available in demo dataset,1,45.79,1
+28,United States,Pittsburgh PA,1,18.99,1
+2,Hong Kong,(not set),1,61.77,1
+5,United States,Roanoke-Lynchburg VA,2,,1
+5,Brazil,(not set),1,3.16,1
+10,Canada,not available in demo dataset,2,61.44,2
+7,Canada,(not set),1,32.99,1
+38,United States,Denver CO,1,27.18,1
+23,Canada,(not set),2,255.0,2
+27,Taiwan,(not set),1,49.97,1
+16,United States,Houston TX,1,58.96,1
+9,United States,Los Angeles CA,3,119.06,3
+0,United States,New York NY,1,543.98,1
+15,United States,San Diego CA,1,36.98,1
+23,United States,Boston MA-Manchester NH,1,13.99,1
+39,United States,Atlanta GA,2,95.17,2
+33,United States,Los Angeles CA,1,16.99,1
+18,United States,Salt Lake City UT,2,63.96,2
+27,Anguilla,(not set),1,19.99,1
+18,United States,Charleston SC,1,22.99,1
+28,Colombia,not available in demo dataset,1,260.46,1
+46,Ukraine,not available in demo dataset,2,14.5,1
+46,Australia,(not set),1,570.16,1
+40,Sweden,(not set),2,156.82,1
+20,United States,Seattle-Tacoma WA,1,51.98,1
+2,Denmark,not available in demo dataset,1,27.0,1
+44,Singapore,(not set),1,134.12,1
+20,United States,San Francisco-Oakland-San Jose CA,28,2234.65,24
+38,United States,San Diego CA,1,68.74,1
+17,United States,San Antonio TX,1,41.98,1
+17,United States,Pittsburgh PA,1,19.97,1
+44,United States,Charlotte NC,1,25.99,1
+43,United States,Atlanta GA,1,117.96,1
+49,United States,San Francisco-Oakland-San Jose CA,22,2278.11,19
+18,United States,Denver CO,1,89.96,1
+14,United States,Charlotte NC,1,395.46,1
+51,(not set),(not set),1,14.29,1
+28,United States,San Francisco-Oakland-San Jose CA,47,2432.76,43
+18,United States,New York NY,24,5244.15,23
+33,Canada,not available in demo dataset,1,28.99,1
+23,United States,not available in demo dataset,46,8788.99,45
+9,United States,San Diego CA,1,11.48,1
+7,United States,not available in demo dataset,73,5402.88,67
+12,United States,not available in demo dataset,58,8153.42,55
+12,United States,Pittsburgh PA,1,17.99,1
+44,United States,Seattle-Tacoma WA,3,92.85,3
+33,United States,not available in demo dataset,61,24629.62,53
+18,United States,San Diego CA,2,65.97,2
+16,Canada,not available in demo dataset,2,74.94,2
+27,United States,Pittsburgh PA,1,109.65,1
+30,Colombia,not available in demo dataset,1,101.95,1
+31,United States,not available in demo dataset,49,4440.25,45
+25,United States,Los Angeles CA,1,1535.41,1
+3,United States,not available in demo dataset,77,6984.83,73
+13,Puerto Rico,not available in demo dataset,1,75.99,1
+47,United States,New York NY,6,1565.05,6
+11,Pakistan,not available in demo dataset,1,59.95,1
+10,United States,Los Angeles CA,3,239.73,3
+28,Hungary,not available in demo dataset,1,40.59,1
+28,United States,New York NY,17,1300.07,16
+30,United States,Roanoke-Lynchburg VA,3,79.17,1
+27,United States,New York NY,6,865.79,6
+44,United States,New York NY,6,594.2,6
+35,Canada,not available in demo dataset,1,350.25,1
+33,United States,Nashville TN,2,36.98,1
+20,United States,Washington DC (Hagerstown MD),2,68.46,2
+0,Kenya,not available in demo dataset,1,1592.4,1
+45,United States,Austin TX,4,596.7,3
+26,Germany,not available in demo dataset,1,59.99,1
+11,India,not available in demo dataset,1,121.96,1
+12,United States,Atlanta GA,2,104.17,2
+50,United States,Los Angeles CA,5,336.81,5
+26,United States,Atlanta GA,1,64.99,1
+19,United States,Boston MA-Manchester NH,1,20.99,1
+46,United States,Seattle-Tacoma WA,4,184.18,3
+46,United States,Chicago IL,3,301.18,3
+47,United States,Los Angeles CA,8,669.55,7
+20,United States,Chicago IL,4,366.67,4
+35,United States,Washington DC (Hagerstown MD),2,52.97,2
+10,Turkey,(not set),1,91.95,1
+42,United States,Roanoke-Lynchburg VA,2,58.81,1
+48,St. Lucia,(not set),1,108.26,1
+34,United States,Atlanta GA,1,18.98,1
+45,United States,San Francisco-Oakland-San Jose CA,19,3561.22,18
+5,United States,San Diego CA,1,193.93,1
+49,United States,Los Angeles CA,4,166.11,4
+23,United States,Austin TX,1,82.99,1
+46,United States,Houston TX,2,343.96,2
+38,Canada,(not set),2,71.94,1
+18,United Kingdom,London,1,30.98,1
+22,United States,Chicago IL,1,339.0,1
+12,United States,Washington DC (Hagerstown MD),1,323.75,1
+45,Canada,not available in demo dataset,3,135.86,3
+45,Canada,(not set),4,1933.51,4
+0,Canada,not available in demo dataset,1,89.46,1
+44,United States,Portland OR,2,55.26,2
+42,Guatemala,not available in demo dataset,1,31.18,1
+42,Mexico,not available in demo dataset,1,11.97,1
+11,United States,Dallas-Ft. Worth TX,2,131.98,1
+17,United States,Austin TX,1,96.38,1
+36,Belgium,not available in demo dataset,2,689.0,2
+17,Canada,(not set),5,778.57,5
+39,United States,Detroit MI,2,147.54,2
+17,United States,Boston MA-Manchester NH,2,177.91,2
+34,United States,Boston MA-Manchester NH,1,206.98,1
+19,United States,Detroit MI,2,164.71,2
+35,United States,Austin TX,2,77.24,2
+38,United States,Boston MA-Manchester NH,1,4274.0,1
+31,United States,Roanoke-Lynchburg VA,4,266.14,1
+13,United States,Roanoke-Lynchburg VA,1,19.99,1
+45,United States,(not set),2,65.97,2
+13,Canada,not available in demo dataset,1,68.97,1
+25,Canada,(not set),2,91.38,2
+21,United States,Los Angeles CA,1,198.87,1
+36,United States,Roanoke-Lynchburg VA,2,105.06,1
+51,Argentina,(not set),1,24.95,1
+33,United States,Phoenix AZ,1,984.7,1
+40,Canada,(not set),2,1092.43,2
+20,United States,Boston MA-Manchester NH,2,1646.78,2
+7,United States,Hartford & New Haven CT,1,17.99,1
+43,Canada,not available in demo dataset,2,56.49,2
+12,United States,Roanoke-Lynchburg VA,2,68.16,1
+38,United States,Houston TX,1,17.98,1
+11,Thailand,(not set),1,152.9,1
+17,United States,Los Angeles CA,5,1947.38,5
+1,United States,Roanoke-Lynchburg VA,1,26.97,1
+18,Canada,not available in demo dataset,1,14.99,1
+42,Canada,(not set),1,44.98,1
+1,United States,Seattle-Tacoma WA,1,79.43,1
+11,Japan,not available in demo dataset,1,49.94,1
+22,United States,Roanoke-Lynchburg VA,1,32.0,1
+7,United States,Boston MA-Manchester NH,1,55.37,1
+16,United States,Austin TX,1,23.99,1
+14,Canada,(not set),1,158.96,1
+6,United States,Charlotte NC,1,7.99,1
+25,United States,Portland OR,1,13.99,1
+3,Canada,(not set),1,218.34,1
+34,United States,Houston TX,1,17.99,1
+18,United States,Pittsburgh PA,1,51.98,1
+10,United States,San Diego CA,1,104.99,1
+49,India,(not set),1,20.29,1
+27,United Kingdom,London,1,42.98,1

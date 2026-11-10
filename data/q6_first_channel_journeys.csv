@@ -1,0 +1,118 @@
+first_channel,returned,first_purchase_channel,days_to_purchase,visitors
+(Other),false,(no purchase),,14
+(Other),true,(no purchase),,10
+(Other),false,(first session),0,1
+Affiliates,false,(no purchase),,10456
+Affiliates,true,(no purchase),,2016
+Affiliates,true,Direct (true),1-7 days,3
+Affiliates,true,(first session),0,3
+Affiliates,true,Direct (true),8-30 days,2
+Affiliates,true,Referral,8-30 days,1
+Direct,false,(no purchase),,1
+Direct (true),false,(no purchase),,86108
+Direct (true),true,(no purchase),,18273
+Direct (true),false,(first session),0,658
+Direct (true),true,Direct (true),1-7 days,479
+Direct (true),true,(first session),0,304
+Direct (true),true,Direct (true),8-30 days,199
+Direct (true),true,Direct (true),31+ days,134
+Direct (true),true,Referral,1-7 days,112
+Direct (true),true,Referral,8-30 days,46
+Direct (true),true,Organic Search,1-7 days,39
+Direct (true),true,Referral,31+ days,27
+Direct (true),true,Organic Search,31+ days,9
+Direct (true),true,Organic Search,8-30 days,7
+Direct (true),true,Social,1-7 days,5
+Direct (true),true,Paid Search,1-7 days,4
+Direct (true),true,Paid Search,8-30 days,4
+Direct (true),true,Social,31+ days,1
+Direct (true),true,Paid Search,31+ days,1
+Direct (true),true,Display,31+ days,1
+Display,false,(no purchase),,1265
+Display,true,(no purchase),,485
+Display,false,(first session),0,30
+Display,true,Direct (true),1-7 days,26
+Display,true,Referral,1-7 days,16
+Display,true,(first session),0,10
+Display,true,Direct (true),8-30 days,8
+Display,true,Referral,8-30 days,5
+Display,true,Organic Search,1-7 days,4
+Display,true,Organic Search,8-30 days,4
+Display,true,Direct (true),31+ days,4
+Display,true,Display,1-7 days,3
+Display,true,Display,31+ days,1
+Display,true,Display,8-30 days,1
+Display,true,Paid Search,31+ days,1
+Organic Search,false,(no purchase),,261904
+Organic Search,true,(no purchase),,37120
+Organic Search,false,(first session),0,1143
+Organic Search,true,Direct (true),1-7 days,723
+Organic Search,true,(first session),0,506
+Organic Search,true,Direct (true),8-30 days,250
+Organic Search,true,Direct (true),31+ days,135
+Organic Search,true,Referral,1-7 days,95
+Organic Search,true,Referral,8-30 days,29
+Organic Search,true,Organic Search,1-7 days,21
+Organic Search,true,Paid Search,1-7 days,20
+Organic Search,true,Referral,31+ days,14
+Organic Search,true,Paid Search,8-30 days,11
+Organic Search,true,Organic Search,31+ days,10
+Organic Search,true,Paid Search,31+ days,7
+Organic Search,true,Organic Search,8-30 days,6
+Organic Search,true,Social,1-7 days,5
+Organic Search,true,Display,1-7 days,4
+Organic Search,true,Display,8-30 days,4
+Organic Search,true,Social,8-30 days,1
+Organic Search,true,Affiliates,1-7 days,1
+Paid Search,false,(no purchase),,11442
+Paid Search,true,(no purchase),,3853
+Paid Search,false,(first session),0,141
+Paid Search,true,(first session),0,74
+Paid Search,true,Direct (true),1-7 days,64
+Paid Search,true,Organic Search,1-7 days,42
+Paid Search,true,Direct (true),8-30 days,28
+Paid Search,true,Paid Search,1-7 days,25
+Paid Search,true,Direct (true),31+ days,9
+Paid Search,true,Referral,1-7 days,8
+Paid Search,true,Paid Search,8-30 days,7
+Paid Search,true,Organic Search,8-30 days,7
+Paid Search,true,Organic Search,31+ days,4
+Paid Search,true,Display,1-7 days,3
+Paid Search,true,Referral,8-30 days,3
+Paid Search,true,Paid Search,31+ days,2
+Paid Search,true,Display,8-30 days,1
+Paid Search,true,Referral,31+ days,1
+Referral,false,(no purchase),,38481
+Referral,true,(no purchase),,11185
+Referral,false,(first session),0,945
+Referral,true,Direct (true),1-7 days,941
+Referral,true,(first session),0,569
+Referral,true,Direct (true),8-30 days,543
+Referral,true,Direct (true),31+ days,311
+Referral,true,Referral,1-7 days,26
+Referral,true,Referral,31+ days,25
+Referral,true,Organic Search,1-7 days,21
+Referral,true,Referral,8-30 days,18
+Referral,true,Organic Search,8-30 days,8
+Referral,true,Organic Search,31+ days,5
+Referral,true,Social,1-7 days,4
+Referral,true,Paid Search,8-30 days,4
+Referral,true,Paid Search,31+ days,2
+Referral,true,Social,8-30 days,2
+Referral,true,Display,8-30 days,1
+Referral,true,Paid Search,1-7 days,1
+Referral,true,Social,31+ days,1
+Social,false,(no purchase),,201259
+Social,true,(no purchase),,8565
+Social,false,(first session),0,35
+Social,true,Direct (true),1-7 days,15
+Social,true,(first session),0,12
+Social,true,Direct (true),31+ days,5
+Social,true,Direct (true),8-30 days,4
+Social,true,Organic Search,8-30 days,2
+Social,true,Organic Search,31+ days,1
+Social,true,Referral,1-7 days,1
+Social,true,Paid Search,8-30 days,1
+Social,true,Referral,31+ days,1
+Social,true,Social,1-7 days,1
+Social,true,Referral,8-30 days,1
